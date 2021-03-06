@@ -28,10 +28,11 @@ VCFTools = "a620830f-fdd7-5ebc-8d26-3621ab35fbfe"
 [compat]
 CSV = "0.8"
 Documenter = ">=0.20"
+FileIO = "1.6"
 GroupSlices = "0.0.3"
 JLD2 = "0.4"
-StatsPlots = "0.14"
 JLSO = "2.5"
+StatsPlots = "0.14"
 
 [extras]
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
